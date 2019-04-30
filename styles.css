@@ -1,0 +1,19 @@
+body{
+    background-color:coral;
+    color: #0000ff;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    text-align: center;
+    padding: 5px;
+}
+.center span{
+    border: 5px #0000ff solid;
+    background-color: #0099ff;
+    padding: 5px;
+}
